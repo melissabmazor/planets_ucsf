@@ -1,3 +1,6 @@
 mars is hot
 moons
 still feeling confused but thats okay. trying to change color
+fnally starting to understand
+making some changes with git push
+
